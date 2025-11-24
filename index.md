@@ -22,6 +22,12 @@ seoSecondaryKeywords:
   - static site generator
   - hugo-theme-mini
 seoOptimized: true
+topicFamily: static
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The blog post is about setting up a Hugo static site template with configuration details,
+  multilingual support, permalinks, and syntax highlighting. It closely aligns with the 'Static'
+  family which covers static site and blog projects using Hugo and related tools.
 ---
 
 # Project Overview: hugo_test
@@ -63,3 +69,4 @@ Setting up a Hugo site from scratch can involve configuring multiple parameters 
 ## Conclusion
 
 This repository serves as a practical reference point for a Hugo static site with minimal but effective configuration. It balances simplicity with essential features, making it a useful template for developers returning to Hugo projects or starting new ones with a clear and maintainable structure.
+
