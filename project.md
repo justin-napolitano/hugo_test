@@ -1,27 +1,28 @@
 ---
 slug: github-hugo-test
 id: github-hugo-test
-title: Hugo Static Site Template with Multilingual Support
+title: Hugo Static Site Template for Multilingual Websites
 repo: justin-napolitano/hugo_test
 githubUrl: https://github.com/justin-napolitano/hugo_test
 generatedAt: '2025-11-24T21:35:10.676Z'
 source: github-auto
 summary: >-
-  A straightforward Hugo static site project template with essential features
-  and multilingual support for building customizable websites.
+  A straightforward Hugo project template with multilingual support, minimal
+  theme integration, and essential configurations for quick setup.
 tags:
   - hugo
   - static site generator
   - multilingual support
   - go modules
   - hugo-theme-mini
+  - yaml
 seoPrimaryKeyword: hugo static site template
 seoSecondaryKeywords:
-  - hugo setup
-  - static site configuration
-  - local development with hugo
+  - hugo project setup
+  - multilingual hugo site
+  - hugo theme integration
+  - hugo local server
   - hugo project structure
-  - hugo multilingual support
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
