@@ -1,13 +1,13 @@
 ---
 slug: github-hugo-test
-title: Minimal Hugo Static Site Template with Multilingual Support
+title: Hugo Static Site Template for Quick Deployment
 repo: justin-napolitano/hugo_test
 githubUrl: https://github.com/justin-napolitano/hugo_test
 generatedAt: '2025-11-23T09:08:08.607611Z'
 source: github-auto
 summary: >-
-  Template for a Hugo static site featuring minimal configuration, multilingual setup, permalinks,
-  pagination, and syntax highlighting with the hugo-theme-mini.
+  A minimal Hugo setup for building static sites with essential configuration
+  and multilingual support.
 tags:
   - hugo
   - static-site
@@ -17,17 +17,21 @@ tags:
   - static-site-generator
 seoPrimaryKeyword: hugo static site template
 seoSecondaryKeywords:
-  - multilingual hugo site
   - hugo configuration
-  - static site generator
-  - hugo-theme-mini
+  - static site setup
+  - multilingual hugo
+  - hugo content structure
+  - hugo deployment
 seoOptimized: true
 topicFamily: static
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The blog post is about setting up a Hugo static site template with configuration details,
-  multilingual support, permalinks, and syntax highlighting. It closely aligns with the 'Static'
-  family which covers static site and blog projects using Hugo and related tools.
+  The blog post is about setting up a Hugo static site template with
+  configuration details, multilingual support, permalinks, and syntax
+  highlighting. It closely aligns with the 'Static' family which covers static
+  site and blog projects using Hugo and related tools.
+kind: project
+id: github-hugo-test
 ---
 
 # Project Overview: hugo_test
