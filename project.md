@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/hugo_test
 generatedAt: '2025-11-24T21:35:10.676Z'
 source: github-auto
 summary: >-
-  A straightforward Hugo project template with multilingual support, minimal
-  theme integration, and essential configurations for quick setup.
+  A straightforward Hugo project template with multilingual support, minimal theme integration, and
+  essential configurations for quick setup.
 tags:
   - hugo
   - static site generator
@@ -24,8 +24,8 @@ seoSecondaryKeywords:
   - hugo local server
   - hugo project structure
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -98,4 +98,5 @@ Open your browser at http://localhost:1313 to view the site.
 - Expand multilingual support and translations
 - Customize theme or develop a custom Hugo theme
 - Implement additional site features such as RSS feeds, math rendering, and enhanced SEO
+
 
